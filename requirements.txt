@@ -10,5 +10,6 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import imageio.v2 as imageio
 from scipy.stats import zscore
+import matplotlib.pyplot as plt
 
 warnings.filterwarnings("ignore")
